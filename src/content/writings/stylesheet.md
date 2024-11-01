@@ -1,6 +1,6 @@
 ---
-title: Stylesheet
-pubDate: Jan 1 2010
+title: My impact as a Web Developer Intern
+pubDate: Nov 11 2024
 ---
 
 # STYLESHEET
