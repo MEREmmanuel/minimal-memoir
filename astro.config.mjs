@@ -11,5 +11,5 @@ export default defineConfig({
             },
         },
     },
-    base: '/minimal-memoir',
+    base: 'minimal-memoir',
 });
